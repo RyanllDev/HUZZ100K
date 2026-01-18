@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! Eu sou Ryan Lima, um Desenvolvedor Back-end com experiência em Python.
+ Olá! Eu sou ##Ryan Lima##, um Desenvolvedor Back-end com experiência em Python.
 Meu objetivo é transformar ideias em sistemas sólidos, rápidos e seguros, criando APIs e soluções escaláveis que atendem às necessidades reais de usuários e empresas. Tenho uma abordagem focada em performance, organização e boas práticas, buscando sempre escrever códigos limpos e fáceis de manter.
 </p>
 

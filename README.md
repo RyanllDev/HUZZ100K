@@ -7,7 +7,7 @@ Meu objetivo é transformar ideias em sistemas sólidos, rápidos e seguros, cri
 
 <p align="left">
   <div style="display: inline_block">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </p>
 
